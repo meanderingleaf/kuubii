@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kuubii/static/css/main.a617e044.chunk.css",
+    "main.js": "/kuubii/static/js/main.ce485c38.chunk.js",
+    "main.js.map": "/kuubii/static/js/main.ce485c38.chunk.js.map",
+    "runtime-main.js": "/kuubii/static/js/runtime-main.a51ce1b5.js",
+    "runtime-main.js.map": "/kuubii/static/js/runtime-main.a51ce1b5.js.map",
+    "static/js/2.5df57a80.chunk.js": "/kuubii/static/js/2.5df57a80.chunk.js",
+    "static/js/2.5df57a80.chunk.js.map": "/kuubii/static/js/2.5df57a80.chunk.js.map",
+    "static/js/3.8e4c6ef6.chunk.js": "/kuubii/static/js/3.8e4c6ef6.chunk.js",
+    "static/js/3.8e4c6ef6.chunk.js.map": "/kuubii/static/js/3.8e4c6ef6.chunk.js.map",
+    "index.html": "/kuubii/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/kuubii/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5df57a80.chunk.js.LICENSE.txt": "/kuubii/static/js/2.5df57a80.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kuubii/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a51ce1b5.js",
+    "static/js/2.5df57a80.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ce485c38.chunk.js"
+  ]
+}
